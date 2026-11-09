@@ -1,1 +1,5 @@
-// class Ball
+Class Ball
+{
+
+
+};// class Ball
