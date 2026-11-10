@@ -3,8 +3,3 @@ int runGame()
 {
 
 }
-
-int rava()
-{
-
-}
