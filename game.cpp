@@ -3,3 +3,5 @@ int runGame()
 {
 
 }
+
+game mod 1
